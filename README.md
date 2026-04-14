@@ -33,29 +33,11 @@ The notebook includes:
 * Python
 * Pandas
 * Matplotlib
-* NumPy
+
 
 ---
 
-##  How to Run
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Aaditya69Kumar/pandas-matplotlib-data-analysis.git
-```
-
-2. Navigate to the project folder:
-```bash
-cd pandas-matplotlib-data-analysis
-```
-3. Open the notebook:
-
-```bash
-jupyter notebook
-```
-
----
 
 ##  Learning Outcomes
 
